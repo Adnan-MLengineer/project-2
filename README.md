@@ -5,4 +5,4 @@ In this project, i made an AI model which predicts the cases of diabetes from a 
 
 **Data**: For the data, I used diabetes.csv from kaggle.com
 
-**Outcome**: The model achieved an R score of 0.78 on the test dataset, indicating a strong ability to predict house prices based on the given features.
+**Outcome**: The model achieved an R score of 0.78 on the test dataset, indicating a strong ability to predict the cases of diabetes based on the given features.
